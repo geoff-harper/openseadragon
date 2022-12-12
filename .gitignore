@@ -1,6 +1,6 @@
 *.sublime-workspace
 node_modules
-build/
+#build/
 sftp-config.json
 coverage/
 instrumented/
